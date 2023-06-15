@@ -1,6 +1,6 @@
 <template>
   <div style="height: 100vh; width: 100vw">
-    <div ref="map" id="map" style="height: 100vh; width: 100vw"></div>
+    <div ref="map" id="map" style="height: 90vh; width: 90vw;margin: auto;"></div>
   </div>
 </template>
 
