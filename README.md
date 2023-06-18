@@ -10,10 +10,10 @@ npm run serve ose npm run dev
 Në këtë mënyrë do ju shfaqet një link të cilin duhet ta kopjoni dhe ta hapni atë me një browser siq ështe Chrome, varësisht se cilin e përdorni ju.
 
 
-**English Version
-**    
-**TRACKING DANGEROUS DRONES THROUGH JSON DATA WITH A VUEJS APPLICATION
-**
+**English Version**   
+
+ 
+**TRACKING DANGEROUS DRONES THROUGH JSON DATA WITH A VUEJS APPLICATION**
 
 After you have downloaded the code, to open (run) the project you have to follow several steps.
 The first step is to download and install Node.js and the NPM package. Below is the link to download Nodejs: https://nodejs.org/en/download. The NPM package is included with Nodejs, and there is no need for any other installation of it. Then you need to make sure you have downloaded and installed Vuejs. A link that will help you to install Vue 3 can be found in the following link: https://v3.ru.vuejs.org/guide/installation.html
