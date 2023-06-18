@@ -1,40 +1,25 @@
-# map-v
+**GJURMIMI I DRONAVE TË RREZIKSHËM PËRMES TË DHËNAVE JSON ME NJË APLIKACION ME VUEJS**
 
-This template should help get you started developing with Vue 3 in Vite.
+Pasi ta keni shkarkuar kodin, për të hapur(run) punimin duhet ndjekur disa hapa.
+Hapi i parë është të shkarkojmë dhe instalojmë Node.js dhe paketën NPM. Më poshtë gjeni linkun për të shkarkuar Nodejs: https://nodejs.org/en/download . Paketa NPM përfshihet në Nodejs, dhe nuk ka nevojë për ndonjë instalim tjetër të saj. Pastaj duhet të siguroheni që e keni shkarkuar dhe instaluar Vuejs. Një link i cili do ju ndihmojë për të instaluar Vue 3 mund ta gjeni në linkun në vazhdim: https://v3.ru.vuejs.org/guide/installation.html
 
-## Recommended IDE Setup
+Pasi ti keni përfunduar hapat e mëparshëm tani mund ta hapni terminal-in dhe duhet të hyni ne folderin ku gjendet punimi, dhe pastaj të ndiqni komandat në vazhdim:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+npm run serve ose npm run dev
 
-## Type Support for `.vue` Imports in TS
+Në këtë mënyrë do ju shfaqet një link të cilin duhet ta kopjoni dhe ta hapni atë me një browser siq ështe Chrome, varësisht se cilin e përdorni ju.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+**English Version
+**    
+**TRACKING DANGEROUS DRONES THROUGH JSON DATA WITH A VUEJS APPLICATION
+**
 
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+After you have downloaded the code, to open (run) the project you have to follow several steps.
+The first step is to download and install Node.js and the NPM package. Below is the link to download Nodejs: https://nodejs.org/en/download. The NPM package is included with Nodejs, and there is no need for any other installation of it. Then you need to make sure you have downloaded and installed Vuejs. A link that will help you to install Vue 3 can be found in the following link: https://v3.ru.vuejs.org/guide/installation.html
 
-## Customize configuration
+After you have completed the previous steps, you can now open the terminal and enter the folder where the work is located, and then follow the following commands:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+npm run serve or npm run dev
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+In this way, a link will appear which you must copy and open with a browser such as Chrome, depending on which one you use.
